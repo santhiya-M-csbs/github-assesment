@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #efd8e5;
+}
+
+.logo{
+    position: absolute;
+width: 266px;
+height: 116.51px;
+left: 29px;
+top: 13px;
+}
+.img1{
+    position: absolute;
+width: 217px;
+height: 83px;
+left: 958px;
+top: 37px;
+}
+.img2{
+    position: absolute;
+width: 162px;
+height: 83px;
+left: 1243px;
+top: 37px;
+}
+.m1{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+
+}
+.m2{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 136px;
+
+}
+.m3{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 136px;
+
+}
+.m5{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 534px;
+
+}
+.m4{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 534px;
+
+
+}
+.m6{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 534px;
+
+}
+.s1{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+
+}
+.s2{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 539px;
+top: 136px;
+}
+.s3{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 136px;
+    
+}
+.s4{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 534px;
+    
+    
+}
+.s5{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 534px;
+    
+}
+.s6{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 995px;
+top: 534px;
+
+}
+.t1{
+    position: absolute;
+left: 64.69%;
+right: 8.46%;
+top: 25.24%;
+bottom: 38.56%;
+
+background: url(mcgonagall.png);
+filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+border-radius: 21px;
+}
