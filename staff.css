@@ -3,33 +3,462 @@
     padding: 0;
 }
 body{
-    position: absolute;
-left: 1.91%;
-right: 1.81%;
-top: 19.29%;
-bottom: 2.31%;
+ 
 
-background: #ece7e6;
+    
+
+background: #e0beb8;
+
+}
+.tab1{
+    position: absolute;
+width: 1380px;
+height: 650px;
+left: 45px;
+top: 90px;
+
+background: #d67867;
+filter: blur(41.5px);
+}
+
+.tab2{
+    position: absolute;
+left: 7.91%;
+right: 7.81%;
+top: 21.29%;
+bottom: 9.31%;
+background: #9C1801;
 border-radius: 29px;
 
 
 }
-.logo{
-    position: absolute;
-width: 266px;
-height: 116.51px;
-left: 29px;
-top: 13px;
-}
-
-.t1{
+.t2{
     position: absolute;
 left: 64.69%;
 right: 8.46%;
 top: 25.24%;
 bottom: 38.56%;
-
-background: url(mcgonagall.png);
+font-family: 'Pirata One';
+background: url(photo_2023-03-14_19-13-54.jpg);
 filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
 border-radius: 21px;
+
+}
+
+.tab{
+    box-sizing: border-box;
+
+position: absolute;
+left:5.50%;
+right:5.500%;
+top: 16.86%;
+bottom:5.10%;
+
+background: #000000;
+border: 1px solid #000000;
+border-radius: 29px;
+filter: blur(5px);
+
+}
+.name{
+    position: absolute;
+left: 12.65%;
+right: 60.89%;
+top: 10.56%;
+bottom: 68.64%;
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 82px;
+
+color: #DCDCDC;
+
+}
+.p1{
+    position: absolute;
+left: 9.24%;
+right: 83.66%;
+top: 36.52%;
+bottom: 60.15%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.p11{
+    position: absolute;
+left: 34.73%;
+right: 59.34%;
+top: 36.52%;
+bottom: 60.15%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p2{
+    position: absolute;
+left: 9.24%;
+right: 84.24%;
+top: 42.96%;
+bottom: 53.71%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p22{
+    position: absolute;
+left: 34.73%;
+right: 60.89%;
+top: 42.96%;
+bottom: 53.71%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p3{
+    position: absolute;
+    left: 9.24%;
+    right: 85.31%;
+    top: 49.41%;
+    bottom: 47.26%;
+    
+    /* wizard */
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+
+}
+.p33{
+    position: absolute;
+    left: 34.73%;
+    right: 55.45%;
+    top: 49.41%;
+    bottom: 47.26%;
+    
+    /* wizard */
+    
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #DCDCDC;
+    
+}
+.p4{
+    position: absolute;
+left: 9.24%;
+right: 87.45%;
+top: 55.85%;
+bottom: 40.82%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+
+}
+.p44{
+    position: absolute;
+left: 34.73%;
+right: 61.87%;
+top: 55.85%;
+bottom: 40.82%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #DCDCDC;
+
+}
+.p5{
+    position: absolute;
+left: 9.24%;
+right: 82.59%;
+top: 62.3%;
+bottom: 34.37%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+.p55{
+    position: absolute;
+left: 34.73%;
+right: 56.03%;
+top: 62.3%;
+bottom: 34.37%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+
+}
+.p6{
+    position: absolute;
+left: 9.24%;
+right: 80.93%;
+top: 68.74%;
+bottom: 27.93%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p66{
+    position: absolute;
+left: 34.73%;
+right: 61.38%;
+top: 68.74%;
+bottom: 27.93%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+}
+
+
+.p7{
+    position: absolute;
+left: 9.24%;
+right: 80.35%;
+top: 75.19%;
+bottom: 21.48%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p77{
+    position: absolute;
+left: 34.73%;
+right: 59.73%;
+top: 75.19%;
+bottom: 21.48%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p8{
+    position: absolute;
+left: 9.24%;
+right: 85.89%;
+top: 81.63%;
+bottom: 15.04%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p88{
+    position: absolute;
+left: 34.73%;
+right: 61.87%;
+top: 81.63%;
+bottom: 15.04%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #DCDCDC;
+}
+.p9{
+    position: absolute;
+left: 9.24%;
+right: 82.59%;
+top: 88.08%;
+bottom: 8.59%;
+
+/* wizard */
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #DCDCDC;
+
+}
+.p99{
+    position: absolute;
+left: 34.73%;
+right: 61.87%;
+top: 88.08%;
+bottom: 8.59%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.05em;
+
+text-transform: capitalize;
+
+color: #DCDCDC;
+
+}
+.logo5{
+    position: absolute;
+left: 42.84%;
+right: 37.84%;
+top: 0px;
+bottom: 100.57%;
+height: 25%;
+width: 15%;
+
+background: url(.png);
 }
