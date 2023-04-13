@@ -58,7 +58,7 @@ bottom:5.10%;
 background: #000000;
 border: 1px solid #000000;
 border-radius: 29px;
-filter: blur(5px);
+filter: blur(1px);
 
 }
 .name{
@@ -454,10 +454,12 @@ color: #DCDCDC;
 }
 .logo5{
     position: absolute;
-left: 45.84%;
+left: 42.84%;
 right: 37.84%;
-top: 0%;
-bottom: 70.57%;
+top: 0px;
+bottom: 100.57%;
+
+
 background: url(.png);
 }
 .green{
@@ -521,3 +523,95 @@ background: #9C1801;
 border-radius: 29px;
 
 }
+.blue{
+    background: #c5ecf6;
+}
+.btab1{
+    position: absolute;
+    width: 1380px;
+    height: 650px;
+    left: 45px;
+    top: 90px;
+    
+    background: #7fd1ea;
+    filter: blur(41.5px);
+}
+.btab2{
+    position: absolute;
+left: 6.91%;
+right: 6.62%;
+top: 20.29%;
+bottom: 8.31%;
+
+background: #3DB2D3;
+filter: blur(10px);
+border-radius: 29px;
+}
+.bbtab2{
+    position: absolute;
+left: 9.91%;
+right: 9.81%;
+top: 24.29%;
+bottom: 12.31%;
+
+background: #3DB2D3;
+border-radius: 29px;
+}
+.yellow{
+    background: #f7f3aa;
+
+}
+.ytab1{
+    position: absolute;
+    width: 1380px;
+    height: 650px;
+    left: 45px;
+    top: 90px;
+    
+    background: #f7d581;
+    filter: blur(41.5px);
+}
+.ytab2{
+    position: absolute;
+    left: 6.91%;
+    right: 6.81%;
+    top: 20.29%;
+    bottom: 8.31%;
+    
+    background: #E8AF17;
+    filter: blur(10px);
+    border-radius: 29px;
+}
+.yytab2{
+    position: absolute;
+left: 9.91%;
+right: 9.81%;
+top: 24.29%;
+bottom: 12.31%;
+
+background: #E8AF17;
+border-radius: 29px;
+}
+.yt2{
+    position: absolute;
+left: 64.69%;
+right: 8.46%;
+top: 15.24%;
+bottom: 38.56%;
+
+background: url(cedric.png);
+filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+border-radius: 21px;
+}
+.bt2{
+    position: absolute;
+left: 64.81%;
+right: 8.28%;
+top: 15.24%;
+bottom: 38.56%;
+
+background: url(cho.png);
+filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+border-radius: 21px;
+}
+
